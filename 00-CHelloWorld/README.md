@@ -1,1 +1,1 @@
-"Compilador ->  MinGW64  :grin:	"
+Compilador ->  MinGW64  :grin:	

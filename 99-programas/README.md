@@ -22,8 +22,8 @@ Construir una tabla con las siguientes columnas: número de línea, lexema y tok
 | 14            | if            | palabraReservada  |
 | 14            | (             | caracterPuntuacion|
 | 14            | !             | operador          |
-| 14            | isdigit       | identificador     |
-| 14            | (             | caracterPuntuacion|
+| 14            | isdigit       | identificador     |   es palabra reservada o identificador como el ejemplo 
+| 14            | (             | caracterPuntuacion|   en el libro donde printf es identificador?
 | 14            | *nro          | operador          |
 | 14            | )             | caracterPuntuacion|
 | 14            | )             | caracterPuntuacion|
